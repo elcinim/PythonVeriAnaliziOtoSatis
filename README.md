@@ -6,6 +6,7 @@ Auto-Sales-data.csv uzantılı dosyayı Google Colaboratory kullanarak verileri 
 
 
 KÜTÜPHANELERİN KULLANIMI VE AMACI
+
 NumPy , Seaborn, Matplotlib ve Pandas, Python programlama dilinde veri analizi ve görselleştirme amacıyla sıkça kullanılan kütüphanelerdir. Biz bu projemizde:
 1.	matplotlib.pyplot (plt) kütüphanesini iki ve üç boyutlu grafikler çizmek amacıyla kullandık. Çubuk grafikleri, pasta grafikleri, çizgi grafikleri, ısı haritaları ve diğer görsel grafikleri oluşturmak için kullandık. Çeşitli renkler, çizgi stilleri kullanarak grafikleri özelleştirdik.
 2.	Seaborn (sns) kütüphanesini Matplotlib tabanlı, çekici ve bilgilendirici istatistiksel grafikler oluşturmak için kullandık. Amacımız veriyi daha estetik ve anlaşılır bir şekilde görselleştirmek.
@@ -17,15 +18,19 @@ NumPy , Seaborn, Matplotlib ve Pandas, Python programlama dilinde veri analizi v
 
 
 KURULUM
+
 Proje dosyaları bilgisayara indirildikten sonra drive'a yüklenir. Drive'a yüklenen dosyalara Colab Notebook üzerinden erişilir. Girilen veri seti ve oluşturulan  ile işlem gerçekleştirilir.
 
 
 
-
-
 KAYNAKÇA
+
 https://chat.openai.com/
+
 https://stackoverflow.com/
+
 https://www.youtube.com/
+
 https://medium.com/
+
 https://github.com/
